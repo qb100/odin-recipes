@@ -1,0 +1,38 @@
+/* styles.css */
+
+.title, .crepe, .french, .gravy{
+    font-family: Papyrus, Copperplate, sans-serif;
+}
+
+.crepe, .french, .gravy{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    color: rgb(0, 0, 255);
+    font-size: 30px;
+}
+
+.title{
+    color: rgb(255, 0, 0);
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.ft, .bag, .cre{
+    color: rgb(0, 0, 255);
+    font-weight: bold;
+    text-align:center;
+}
+
+.wft, .wbg, .wac{
+    text-align: center;
+    color: rgb(0, 0, 255);
+}
